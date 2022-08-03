@@ -1,0 +1,28 @@
+{
+  "name": "workshop-node",
+  "version": "1.0.0",
+  "description": "Training Workshop PE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efrack09/workshop-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efrack09/workshop-node/issues"
+  },
+  "homepage": "https://github.com/Efrack09/workshop-node#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "puppeteer": "^16.0.0"
+  }
+}
